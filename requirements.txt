@@ -7,3 +7,12 @@ tensorflow
 matplotlib
 seaborn
 ta
+datetime
+os
+logging
+data_manager
+typing
+pickle
+import os
+
+
